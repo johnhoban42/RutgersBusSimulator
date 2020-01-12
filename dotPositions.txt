@@ -1,0 +1,35 @@
+Red Oak Lane,15,24
+Lipman Hall,67,24
+Food Sciences Building,120,24
+Biel Road,174,24
+Henderson,228,24
+Kaztenbach,278,24
+Gibbons,327,24
+College Hall,373,24
+College Avenue Student Center,15,207
+Scott Hall,199,207
+Student Activities Center,373,207
+Visitor Center,15,299
+Stadium,54,299
+Werblin Back Entrance,95,299
+Hill Center,138,299
+Allison Road Classrooms,177,299
+Science Building,177,299
+Library of Science,220,299
+Busch Suites,259,299
+Davidson Hall,259,299
+Busch Student Center,297,299
+Buell Apartments,334,299
+Werblin Main Entrance,373,299
+Livingston Plaza,15,390
+Livingston Student Center,199,390
+Quads,373,390
+Train Station (Somerset St.),15,109
+George Street Southbound at Paterson St.,140,109
+Rockoff Hall,262,109
+Public Safety Building (Southbound),373,109
+Public Safety Building (Northbound),373,109
+George Street Northbound at Liberty St.,262,109
+George Street Northbound at Paterson St.,140,109
+Train Station (George St.),15,109
+Zimmerli Arts Museum,15,109

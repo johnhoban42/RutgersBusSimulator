@@ -1,0 +1,5 @@
+Stadium,90,30,b
+Werblin Back Entrance,120,15,nb
+Hill Center,60,30,nb
+Allison Road Classrooms,60,30,nb
+Hill Center,45,30,nb

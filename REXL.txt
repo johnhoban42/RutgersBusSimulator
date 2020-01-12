@@ -1,0 +1,6 @@
+Red Oak Lane,240,45,b
+Lipman Hall,60,15,nb
+College Hall,240,30,nb
+Livingston Plaza,660,30,nb
+Livingston Student Center,120,60,b
+Public Safety Building (Southbound),600,30,nb

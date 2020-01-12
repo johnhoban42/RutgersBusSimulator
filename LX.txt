@@ -1,0 +1,6 @@
+Livingston Student Center,120,60,b
+Quads,120,15,nb
+College Avenue Student Center,480,45,b
+Scott Hall,120,45,nb
+Student Activities Center,240,30,nb
+Livingston Plaza,360,30,nb

@@ -1,0 +1,12 @@
+College Avenue Student Center,300,45,b
+Scott Hall,120,45,nb
+Public Safety Building (Southbound),360,30,nb
+Red Oak Lane,240,45,b
+Lipman Hall,60,15,nb
+Food Sciences Building,60,15,nb
+Biel Road,60,30,nb
+Henderson,120,15,nb
+Kaztenbach,60,15,nb
+Gibbons,60,30,nb
+College Hall,180,30,nb
+Student Activities Center,360,30,nb

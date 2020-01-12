@@ -1,0 +1,11 @@
+College Avenue Student Center,360,45,b
+Scott Hall,120,45,nb
+Student Activities Center,240,30,nb
+Werblin Main Entrance,300,15,nb
+Buell Apartments,60,15,nb
+Busch Student Center,60,60,b
+Davidson Hall,120,30,nb
+Library of Science,120,30,nb
+Allison Road Classrooms,60,30,nb
+Hill Center,60,30,nb
+Stadium,180,15,nb

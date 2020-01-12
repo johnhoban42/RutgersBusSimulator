@@ -1,0 +1,7 @@
+Red Oak Lane,240,45,b
+Lipman Hall,60,15,nb
+College Hall,240,30,nb
+Hill Center,540,30,nb
+Allison Road Classrooms,60,30,b
+Hill Center,60,30,nb
+Public Safety Building (Southbound),420,30,nb

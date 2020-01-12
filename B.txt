@@ -1,0 +1,9 @@
+Busch Student Center,120,60,b
+Livingston Plaza,240,30,nb
+Livingston Student Center,120,60,b
+Quads,120,15,nb
+Werblin Back Entrance,420,15,nb
+Hill Center,60,30,nb
+Science Building,60,30,nb
+Library of Science,120,30,nb
+Busch Suites,120,30,nb
